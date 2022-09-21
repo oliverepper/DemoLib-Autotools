@@ -1,5 +1,6 @@
 #include <iostream>
 #include <demo_cpp.hpp>
+#include <demo.h>
 
 demo::Demo::Demo(const enum demo_case x) : _case{x} {}
 

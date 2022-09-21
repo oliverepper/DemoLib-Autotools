@@ -1,7 +1,7 @@
 #ifndef DEMO_CPP_HPP
 #define DEMO_CPP_HPP
 
-#include <demo.h>
+#include <demo/demo_types.h>
 
 namespace demo {
 
